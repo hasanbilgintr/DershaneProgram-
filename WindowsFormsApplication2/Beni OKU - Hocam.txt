@@ -1,0 +1,5 @@
+Hocam Database ile alakalý bir problem yaþadým, masaüstünde olmadan veri çekmiyor.
+
+Klasörde 'Kullanýlan Database(en güncel - masaüstünde durmasý gerek)' olaný kullanýn siz, diðerleri iþlevsiz.. Veriyi ordan çekiyor..
+
+veya siz istediðiniz bir Database ayarlarsýnýz.

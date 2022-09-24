@@ -1,0 +1,746 @@
+c:\users\furkan özkaya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+c:\users\furkan özkaya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+c:\users\furkan özkaya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+c:\users\furkan özkaya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+c:\users\furkan özkaya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\furkan özkaya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+c:\users\furkan özkaya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\furkan özkaya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+c:\users\furkan özkaya\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Furkan Özkaya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db1.mdb
+C:\Users\Furkan Özkaya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Furkan Özkaya\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db1.mdb
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\gokhan.ozkaya\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db1.mdb
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Furkan Özkaya\Desktop\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db1.mdb
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\zafer\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db1.mdb
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\gokhan.ozkaya\Desktop\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\db1.mdb
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\zafer\Desktop\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\kurulProjesi\WF2_01.09.2019_final\WF2_01.09.2019\WF2_25.08.2019\WindowsFormsApplication2\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\goktug.kara\Desktop\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.AdminPanel.resources
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Göktuğ\Desktop\Final\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\Göktuğ\Desktop\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\Finalv1\Finalv1\Final\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Furkan Özkaya\Desktop\Final2\Final2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Furkan Özkaya\Desktop\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Furkan Özkaya\Desktop\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\HasanB_ve_FurkanO\Final2\Final2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Furkan Özkaya\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FH_V3_19Eylul2223_00\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Furkan Dosyalar\FH_V3_20Eylul2150\FH_V3_20Eylul2150\FH_V3_19Eylul1732_00\FH_V3_19Eylul13_00\FH_V2_18Eylul21_30\FH_V1_18Eylul\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Fh_18eylül 1735\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_24eylül23_06\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje_25eylül2023\FvH_Proje_25eylül2023\FvH_Proje_22Eylul_23_30\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\nesri\Desktop\Furkan Dosyalar\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrMezunEt.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrMezunEt.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrMezunEt.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Furkan Özkaya\Desktop\FvH_Proje_2ekim0154crsamba\FvH_Proje_30Eylul_22_52_Pazartesi\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrMezunEt.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Pc\Downloads\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrMezunEt.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\İndirilenler\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrMezunEt.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrMezunEt.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\hasan(silme)\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AdminPanel.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_AnaMenu.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Bilgİslem.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_CalisanlarListesi.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Guncelle.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitSil.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KayitDetay.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_KullanmaKilavuzu.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Login.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_Muhasebe.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrMezunEt.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtAta.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_OgrtListesi.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SinifAtama.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Frm_SnfOgrtGuncelle.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\YerelDiskD\USB\Zafer Hoca Notları\furkanlaproje\FvH_Proje_12ekim1949Orjinal\FvH_Proje_3Ekim2019_Persembe_00_34\FvH_Proje\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
